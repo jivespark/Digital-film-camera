@@ -23,10 +23,10 @@ class Camera:
         time.sleep(2)
         self.ready=True
     
-    def capture(self, filepath, filename):
+    def capture(self, filepath):
         if(self.ready):
             self.ready=False
-            self.cam.capture_file(filepath, name=filename)
+            self.cam.capture_file(filepath, name="raw")
             self.ready=True
     
     def stop(self):
