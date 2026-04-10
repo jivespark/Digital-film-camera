@@ -2,6 +2,7 @@
 This is a project I made for the Hackclub stasis YSWS. It is a camera that uses the raspberry pi camera module 3 and a raspberry pi zero to take pictures. I made it be a bit like the older film cameras so you don't get a preview on a screen, only after you took the picture.
 
 **Why did I make this project?**
+
 I made this project since I like photography, and hardware design and thought this would be a nice way to blend them together. I also wanted to have a simple camera I could just slip in my backpack, and don't have to worry about settings, lenses, etc.I usually use my phone for this, but sometimes I just like to leave my phone at home and have a seperate device for taking photos.
 
 Camera assembly:
