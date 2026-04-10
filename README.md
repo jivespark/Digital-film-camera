@@ -28,3 +28,5 @@ BOM:
 |Raspberry pi camera module 3    |Camera module for taking pictures                         |1       |32.00           |https://www.amazon.com/n/dp/B0C9PYCV9S/              |Amazon     |
 |Raspberry pi zero 2WH           |The main microcontroller controlling everything           |1       |32.99           |https://www.amazon.com/dp/B0GJQMKJ4V                 |Amazon     |
 |Usb-c connector                 |Usb-c connector for charging                              |1       |4.43            |https://www.aliexpress.com/item/1005010700033077.html|Aliexpress |
+
+I aslo want to say that 2 MX switches and 1 18650 battery is also required, the reason they are not in the BOM is because I have them at home so I can use those and wont have to buy them.
